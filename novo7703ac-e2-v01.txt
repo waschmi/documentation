@@ -1,0 +1,48 @@
+ainol novo7703ac-e2-v01
+
+hrx07009024a 		#display
+
+AXP202				#power
+c2014ca 6351
+
+
+
+realtek				#wifi
+rtl8188eus
+c7e28hi
+gc29 taiwan
+
+
+235l2
+P3420
+
+29f32g08cbaca 		#micron nand
+
+
+hynix
+h5tq2g83cfr
+h9c  239ek
+
+hynix
+h5tq2g83cfr
+h9c  232ek
+
+
+263
+8452
+3nxe
+
+
+wm8960g
+24akpdr
+
+
+aml8726-mx
+a-pkx580.00
+ankn0012
+
+ft5206ge1
+en3056
+
+
+
